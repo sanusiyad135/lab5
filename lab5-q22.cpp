@@ -3,9 +3,8 @@ using namespace std;
 int main(){
     //declairing variables
     int i,n;
-    cout<<"value of i"<<endl;
-    cin>>i;
-    cout<<"value of n"<<endl;
+    i=1;
+    cout<<"value of n:"<<endl;
     cin>>n;
     //using loops
     while (i<n)
