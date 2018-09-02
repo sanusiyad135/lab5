@@ -6,7 +6,7 @@ int main(){
    //using while loop
    while(i<100){
    i=i+2;  
-   cout<<i<<" is an even number less than 100"<<endl; 
+   cout<<i<<" is an even number less than or equal to 100"<<endl; 
       
    }
    return 0;
