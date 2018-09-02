@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
    //declaration of variables
-   int a,n,sum;
+   int a,n,sum=0;
    a=1;
    cout<<"what is n"<<endl;
    cin>>n;
