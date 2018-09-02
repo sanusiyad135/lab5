@@ -7,7 +7,7 @@ int main(){
     cout<<"value of n:"<<endl;
     cin>>n;
     //using loops
-    while (i<n)
+    while (i<=n)
     //printing the output
 
    { cout<<"natural number "<<i<<endl;
