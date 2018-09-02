@@ -1,11 +1,13 @@
 #include<iostream>
 using namespace std;
 int main(){
-   char a,b;
-   b='a';
+   char a,b='a';
    a=b;
-   while (a<=z)
-   cout<<"The English alphabets are:"<<a;
-   a++;
+   cout<<"the english alphabets are:\n";
+   while (a<='z')
+{
+   cout<<a<<"\n";
+   a++;}
    return 0;
 }
+
